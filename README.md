@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🛠️+Multi-Utility+Toolkit;Python+Module+Powerhouse;Built+for+Developers+%F0%9F%9A%80" alt="Typing SVG" />
+<h1>🛠️ Multi-Utility Toolkit</h1>
+<p><em>Python Module Powerhouse · Built for Developers 🚀</em></p>
 
 <br/>
 
